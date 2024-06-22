@@ -1,0 +1,19 @@
+{
+  "name": "sol-copytrade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "trade": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.6",
+    "@solana/web3.js": "^1.91.8",
+    "axios": "^1.7.2",
+    "chalk": "^4.1.2",
+    "adm-zip": "^0.5.10"
+  }
+}

